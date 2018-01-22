@@ -1,3 +1,6 @@
+
+
+
 html {
   overflow-x: hidden;
 }
@@ -6,16 +9,34 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.parent{
+  display:flex; 
+  justify-content: center;
+  margin-left: 0px;
+  font-family: 'Prompt', sans-serif;
+  font-weight: 200;
+}
+
+.child{
+  display:flex;
+  margin: 0px 35px 0px 35px;
+
+}
+
 .name  {
   margin-top: 15%;
+  padding-bottom: 0px;
   text-align: center;
   vertical-align: middle;
   line-height: 90px;
 }
 
 .name h1 {
+font-family: 'Prompt', sans-serif;
+  font-weight: 400;
   font-size: 8.5rem;
   letter-spacing: 0.2rem;
+  margin-bottom: 0px;
 }
 
 .options {
@@ -34,7 +55,8 @@ body {
   display: none;
   text-align: center;
   margin-top: 3%;
-  font-weight: 700;
+  font-family: 'prompt', sans-serif;
+  font-weight: 200;
 }
 
 .pink {
@@ -43,6 +65,7 @@ body {
   height: 65px;
   width: 65px;
   margin: 0 auto;
+  margin-top: 55px;
 }
 
 .blue {
@@ -51,6 +74,7 @@ body {
   height: 65px;
   width: 65px;
   margin: 0 auto;
+  margin-top: 55px;
 }
 
 .yellow {
@@ -59,6 +83,7 @@ body {
   height: 65px;
   width: 65px;
   margin: 0 auto;
+  margin-top: 55px;
 }
 
 .navbar-default {
@@ -74,7 +99,8 @@ body {
 }
 
 .navbar-nav li {
-  font-weight: 700;
+  font-family: 'Prompt', sans-serif;
+  font-weight: 200;
 }
 
 .surround {
