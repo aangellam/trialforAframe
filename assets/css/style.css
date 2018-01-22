@@ -1,6 +1,3 @@
-
-
-
 html {
   overflow-x: hidden;
 }
@@ -9,34 +6,16 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.parent{
-  display:flex; 
-  justify-content: center;
-  margin-left: 0px;
-  font-family: 'Prompt', sans-serif;
-  font-weight: 200;
-}
-
-.child{
-  display:flex;
-  margin: 0px 35px 0px 35px;
-
-}
-
 .name  {
   margin-top: 15%;
-  padding-bottom: 0px;
   text-align: center;
   vertical-align: middle;
   line-height: 90px;
 }
 
 .name h1 {
-font-family: 'Prompt', sans-serif;
-  font-weight: 400;
   font-size: 8.5rem;
   letter-spacing: 0.2rem;
-  margin-bottom: 0px;
 }
 
 .options {
@@ -55,8 +34,7 @@ font-family: 'Prompt', sans-serif;
   display: none;
   text-align: center;
   margin-top: 3%;
-  font-family: 'prompt', sans-serif;
-  font-weight: 200;
+  font-weight: 700;
 }
 
 .pink {
@@ -65,7 +43,6 @@ font-family: 'Prompt', sans-serif;
   height: 65px;
   width: 65px;
   margin: 0 auto;
-  margin-top: 55px;
 }
 
 .blue {
@@ -74,7 +51,6 @@ font-family: 'Prompt', sans-serif;
   height: 65px;
   width: 65px;
   margin: 0 auto;
-  margin-top: 55px;
 }
 
 .yellow {
@@ -83,7 +59,6 @@ font-family: 'Prompt', sans-serif;
   height: 65px;
   width: 65px;
   margin: 0 auto;
-  margin-top: 55px;
 }
 
 .navbar-default {
@@ -99,8 +74,7 @@ font-family: 'Prompt', sans-serif;
 }
 
 .navbar-nav li {
-  font-family: 'Prompt', sans-serif;
-  font-weight: 200;
+  font-weight: 700;
 }
 
 .surround {
@@ -357,8 +331,8 @@ video {
   position:fixed;
   left:0;
   top:0;
-  width:150%;
-  height:150%;
+  width:100%;
+  height:100%;
   overflow:auto;
   /*background-color:rgb(0,0,0);*/
   background-color:rgba(255,255,255,0.8)
@@ -376,7 +350,7 @@ video {
 
 .w3-animate-zoom {
   animation:animatezoom 0.6s
-  }@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(2)}}
+  }@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 
 
 .other-mobile {
