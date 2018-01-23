@@ -452,7 +452,7 @@ video {
     }
 
     .navbar-default {
-    margin-left: 5%;
+    margin-left: 7%;
     }
 
     .pink {
@@ -509,24 +509,24 @@ video {
     .design-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 5px;
+    margin-top: 10px;
     }
 
     .animation-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 5px;
+    margin-top: 10px;
     }
 
     .other-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 5px;
+    margin-top: 10px;
     }
 
     .video {
-      width: 565px;
-      height: 318px;
+      width: 575px;
+      height: 328px;
     }
 
     #video-player {
