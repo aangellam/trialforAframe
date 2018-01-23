@@ -420,7 +420,7 @@ video {
     padding-bottom: 5px;
     }
 
-    .navbar-nav-mobile li {
+    .navbar-nav-mobile {
     margin-top:3px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200;
