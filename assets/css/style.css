@@ -526,26 +526,26 @@ video {
 
     .design-header h1 {
     font-size: 9rem;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
     margin-top: 35px;
     }
 
     .animation-header h1 {
     font-size: 9rem;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
     margin-top: 35px;
     }
 
     .other-header h1 {
     font-size: 9rem;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
     margin-top: 35px;
     }
 
     .video {
-      width: 795px;
-      height: 548px;
-      position: center;
+      width: 815px;
+      height: 568px;
+      margin-left: 5%;
     }
 
     #video-player {
