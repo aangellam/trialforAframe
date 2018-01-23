@@ -527,6 +527,7 @@ video {
     .video {
       width: 575px;
       height: 328px;
+      position: center;
     }
 
     #video-player {
