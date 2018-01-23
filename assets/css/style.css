@@ -455,6 +455,15 @@ video {
     margin-left: 1%;
     }
 
+    .pink {
+  background-color: #ee88aa;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  margin: 0 auto;
+  margin-top: 55px;
+    }
+
     #video-player {
       width: 400px;
       height: 280px;
