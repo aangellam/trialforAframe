@@ -517,6 +517,11 @@ video {
     font-size: 9rem;
     }
 
+    .video {
+      width: 400px;
+      height: 280px;
+    }
+
     #video-player {
       width: 400px;
       height: 280px;
