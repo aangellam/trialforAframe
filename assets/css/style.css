@@ -448,7 +448,7 @@ video {
     margin-top:3px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200;
-    font-size:28px;
+    font-size:31px;
     }
 
     .navbar-default {
@@ -465,7 +465,7 @@ video {
     }
 
     .blue {
-  background-color: #ee88aa;
+  background-color: #66aaff;
   border-radius: 50%;
   height: 80px;
   width: 80px;
@@ -473,8 +473,8 @@ video {
   margin-top: 55px;
     }
 
-    .blue {
-  background-color: #ee88aa;
+    .yellow {
+  background-color: #ffff77;
   border-radius: 50%;
   height: 80px;
   width: 80px;
@@ -483,13 +483,13 @@ video {
     }
 
     .iconlink{
-    height: 54x;
-    width: 54px;
+    height: 108px;
+    width: 108px;
     }
 
     .icon{
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
     }
 
     .name h1 {
@@ -501,7 +501,7 @@ video {
     }
 
     .descriptor {
-    font-size:10px;
+    font-size:50px;
     }
 
     #video-player {
@@ -516,7 +516,7 @@ video {
 
     #brand {
     color: black;
-    font-size: 4rem;
+    font-size: 5rem;
     font-weight: 700;
     line-height: 90%;
     }
