@@ -526,8 +526,8 @@ video {
     font-size:25px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200; 
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
     }
 
     .design-header h1 {
@@ -560,7 +560,7 @@ video {
     }
     .product-slider {
       padding: 20px;
-      margin-right: 10%;
+      margin-right: 8%;
     } 
 
     #video-player {
