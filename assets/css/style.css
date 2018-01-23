@@ -556,8 +556,8 @@ video {
       width: 845px;
       height: 598px;
       padding-right: 19%;
-      padding-bottom: 0px;
-      padding-top: 5px;
+      margin-bottom: 0px;
+      margin-top: 0px;
     }
     .product-slider {
       padding: 20px;
