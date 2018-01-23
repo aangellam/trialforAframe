@@ -526,7 +526,8 @@ video {
     font-size:25px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200; 
-    padding-right: 20px;
+    margin-right: 15px;
+    margin-left:15px;
     }
 
     .design-header h1 {
@@ -556,7 +557,7 @@ video {
     .video {
       width: 845px;
       height: 598px;
-      padding-right: 8%;
+      padding-right: 16%;
     }
     .product-slider {
       padding: 20px;
