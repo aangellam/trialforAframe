@@ -408,12 +408,11 @@ video {
 }
 
 @media screen and (max-width: 1023px) and (min-width: 310px) {
-
-    .navbar-nav{
-    margin-top:3px;
-    font-family: 'Prompt', sans-serif;
-    font-weight: 200;
-    font-size:100px;
+    #brand-mobile {
+    color: black;
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 90%;
     }
 
     .footer-mobile {
