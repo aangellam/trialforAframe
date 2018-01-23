@@ -9,6 +9,16 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.iconlink{
+    height: 53px;
+    width: 53px;
+    }
+
+.icon{
+    height: 50px;
+    width: 50px;
+    }
+
 .footer {
     position: fixed;
     left: 0;
@@ -279,12 +289,12 @@ font-family: 'Prompt', sans-serif;
 }
 
 .profile {
-  margin-left:13%;
+  margin-left:20%;
   width: 80%;
 }
 
 .profile-pic {
-  width: 140% !important;
+  width: 110% !important;
 }
 
 .product-slider {
