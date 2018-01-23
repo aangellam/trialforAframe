@@ -409,7 +409,7 @@ video {
 
 @media screen and (max-width: 1023px) and (min-width: 310px) {
 
-    .navbar-nav li {
+    .navbar-nav{
     margin-top:3px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200;
