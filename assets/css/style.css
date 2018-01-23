@@ -419,6 +419,14 @@ video {
     padding-bottom: 5px;
     }
 
+    .name-mobile h1 {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+    font-size: 13rem;
+    letter-spacing: 0.2rem;
+    margin-bottom: 0px;
+    }
+
     .animation-laptop {
       display: none;
     }
