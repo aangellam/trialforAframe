@@ -452,7 +452,7 @@ video {
     }
 
     .navbar-default {
-    margin-left: 1%;
+    margin-left: 35%;
     }
 
     .pink {
@@ -501,7 +501,20 @@ video {
     }
 
     .descriptor {
-    font-size:50px;
+    font-size:30px;
+    font-weight: 200;
+    }
+
+    .design-header h1 {
+    font-size: 9rem;
+    }
+
+    .animation-header h1 {
+    font-size: 9rem;
+    }
+
+    .other-header h1 {
+    font-size: 9rem;
     }
 
     #video-player {
