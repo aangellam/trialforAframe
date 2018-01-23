@@ -389,7 +389,7 @@ video {
   margin-top: 3%;
 }
 
-@media screen and (max-width: 1000px) and (min-width: 310px) {
+@media screen and (max-width: 1023px) and (min-width: 310px) {
     .animation-laptop {
       display: none;
     }
@@ -412,5 +412,30 @@ video {
 
     .other-mobile {
       display: block;
+    }
+
+    #video-player {
+      width: 400px;
+      height: 280px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      margin-left: 65px;
+    }
+}
+
+@media screen and (max-width: 1440px) and (min-width: 1024px) {
+
+    #video-player {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      width: 425px;
+      height: 300px;
+      top: 30px;
     }
 }
