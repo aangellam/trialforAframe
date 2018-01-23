@@ -468,8 +468,8 @@ video {
     .pink {
   background-color: #ee88aa;
   border-radius: 50%;
-  height: 80px;
-  width: 80px;
+  height: 90px;
+  width: 90px;
   margin: 0 auto;
   margin-top: 55px;
     }
@@ -477,8 +477,8 @@ video {
     .blue {
   background-color: #66aaff;
   border-radius: 50%;
-  height: 80px;
-  width: 80px;
+  height: 90px;
+  width: 90px;
   margin: 0 auto;
   margin-top: 55px;
     }
@@ -486,8 +486,8 @@ video {
     .yellow {
   background-color: #ffff77;
   border-radius: 50%;
-  height: 80px;
-  width: 80px;
+  height: 90px;
+  width: 90px;
   margin: 0 auto;
   margin-top: 55px;
     }
@@ -511,7 +511,7 @@ video {
     }
 
     .descriptor {
-    font-size:20px;
+    font-size:25px;
     /*font-family: 'Prompt', sans-serif;*/
     /*font-weight: 200; */
     }
@@ -519,24 +519,24 @@ video {
     .design-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 25px;
+    margin-top: 35px;
     }
 
     .animation-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 25px;
+    margin-top: 35px;
     }
 
     .other-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 25px;
+    margin-top: 35px;
     }
 
     .video {
-      width: 695px;
-      height: 448px;
+      width: 795px;
+      height: 548px;
       position: center;
     }
 
