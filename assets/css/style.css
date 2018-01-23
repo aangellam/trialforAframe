@@ -493,13 +493,13 @@ video {
     }
 
     .iconlink{
-    height: 113px;
-    width: 113px;
+    height: 143px;
+    width: 143px;
     }
 
     .icon{
-    height: 105px;
-    width: 105px;
+    height: 135px;
+    width: 135px;
     }
 
     .name h1 {
@@ -512,8 +512,8 @@ video {
 
     .descriptor {
     font-size:20px;
-    font-family: 'Prompt', sans-serif;
-    font-weight: 200;
+    /*font-family: 'Prompt', sans-serif;*/
+    /*font-weight: 200; */
     }
 
     .design-header h1 {
@@ -535,8 +535,8 @@ video {
     }
 
     .video {
-      width: 645px;
-      height: 398px;
+      width: 695px;
+      height: 448px;
       position: center;
     }
 
