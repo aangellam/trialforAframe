@@ -472,7 +472,7 @@ video {
   width: 90px;
   margin: 0 auto;
   margin-top: 55px;
-    margin-right: 10px;
+    margin-right: 40px;
 
     }
 
@@ -492,7 +492,7 @@ video {
   width: 90px;
   margin: 0 auto;
   margin-top: 55px;
-    margin-left: 10px;
+    margin-left: 40px;
 
     }
 
@@ -565,7 +565,7 @@ video {
     }
 
     #video-player-animation {
-      margin-left: 65px;
+      margin-left: 30px;
     }
 
     #brand {
