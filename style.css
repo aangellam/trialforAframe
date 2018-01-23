@@ -265,11 +265,11 @@ font-family: 'Prompt', sans-serif;
 }
 
 .profile {
-  width: 100%;
+  width: 80%;
 }
 
 .profile-pic {
-  width: 95% !important;
+  width: 100% !important;
 }
 
 .product-slider {
