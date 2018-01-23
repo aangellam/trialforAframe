@@ -520,8 +520,8 @@ video {
 
     .descriptor {
     font-size:25px;
-    /*font-family: 'Prompt', sans-serif;*/
-    /*font-weight: 200; */
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200; 
     }
 
     .design-header h1 {
@@ -543,9 +543,9 @@ video {
     }
 
     .video {
-      width: 815px;
-      height: 568px;
-      margin-left: 5%;
+      width: 845px;
+      height: 598px;
+      /*margin-left: 1%;*/
     }
 
     #video-player {
