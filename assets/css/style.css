@@ -445,14 +445,14 @@ video {
     }
 
     .navbar-nav li {
-    margin-top:3px;
+    margin-top:5px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200;
-    font-size:31px;
+    font-size:29px;
     }
 
     .navbar-default {
-    margin-left: 7%;
+    margin-left: 8%;
     }
 
     .pink {
@@ -509,24 +509,24 @@ video {
     .design-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
     }
 
     .animation-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
     }
 
     .other-header h1 {
     font-size: 9rem;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
     }
 
     .video {
-      width: 575px;
-      height: 328px;
+      width: 605px;
+      height: 358px;
       position: center;
     }
 
