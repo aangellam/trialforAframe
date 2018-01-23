@@ -408,12 +408,6 @@ video {
 }
 
 @media screen and (max-width: 1023px) and (min-width: 310px) {
-    #brand {
-    color: black;
-    font-size: 100rem;
-    font-weight: 700;
-    line-height: 90%;
-    }
 
     .footer-mobile {
     position: fixed;
@@ -458,6 +452,13 @@ video {
 
     #video-player-animation {
       margin-left: 65px;
+    }
+
+    #brand {
+    color: black;
+    font-size: 2.3rem;
+    font-weight: 700;
+    line-height: 90%;
     }
 }
 
