@@ -408,9 +408,9 @@ video {
 }
 
 @media screen and (max-width: 1023px) and (min-width: 310px) {
-    #brand-mobile {
+    #brand {
     color: black;
-    font-size: 5rem;
+    font-size: 100rem;
     font-weight: 700;
     line-height: 90%;
     }
