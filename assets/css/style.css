@@ -313,7 +313,7 @@ font-family: 'Prompt', sans-serif;
 }
 
 .product-slider #thumbcarousel .item .thumb {
-  width: 20%;
+  width: 40px;
   margin: 0 1%;
   display: inline-block;
   vertical-align: middle;
@@ -526,8 +526,6 @@ video {
     font-size:25px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200; 
-    margin-left: 80px;
-    margin-right: 80px;
     }
 
     .design-header h1 {
