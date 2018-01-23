@@ -444,6 +444,17 @@ video {
       display: block;
     }
 
+    .navbar-nav li {
+    margin-top:3px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200;
+    font-size:30px;
+    }
+
+    .navbar-default {
+    margin-left: 1%;
+    }
+
     #video-player {
       width: 400px;
       height: 280px;
@@ -454,7 +465,14 @@ video {
       margin-left: 65px;
     }
 
-  
+    #brand {
+    color: black;
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 90%;
+    }
+
+
 }
 
 @media screen and (max-width: 1440px) and (min-width: 1024px) {
