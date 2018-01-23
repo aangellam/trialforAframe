@@ -464,6 +464,17 @@ video {
   margin-top: 55px;
     }
 
+    .iconlink{
+    height: 54x;
+    width: 54px;
+    }
+
+    .icon{
+    height: 50px;
+    width: 50px;
+    }
+
+
     #video-player {
       width: 400px;
       height: 280px;
