@@ -528,11 +528,6 @@ video {
     font-weight: 200; 
     }
 
-    #design{
-      padding-left: 8px;
-      padding-right: 8px;
-    }
-
     .design-header h1 {
     font-size: 9rem;
     margin-bottom: 1px;
@@ -561,6 +556,8 @@ video {
       width: 845px;
       height: 598px;
       padding-right: 19%;
+      padding-bottom: 0px;
+      padding-top: 5px;
     }
     .product-slider {
       padding: 20px;
