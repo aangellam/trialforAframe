@@ -472,6 +472,8 @@ video {
   width: 90px;
   margin: 0 auto;
   margin-top: 55px;
+    margin-right: 10px;
+
     }
 
     .blue {
@@ -490,6 +492,8 @@ video {
   width: 90px;
   margin: 0 auto;
   margin-top: 55px;
+    margin-left: 10px;
+
     }
 
     .iconlink{
@@ -551,7 +555,7 @@ video {
     .video {
       width: 845px;
       height: 598px;
-      padding-right: 50%;
+      margin-left: 65px;
     }
 
     #video-player {
