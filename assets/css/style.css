@@ -470,7 +470,7 @@ video {
   border-radius: 50%;
   height: 90px;
   width: 90px;
-  margin: 5 auto;
+  margin: 20 auto;
   margin-top: 55px;
     }
 
@@ -479,7 +479,7 @@ video {
   border-radius: 50%;
   height: 90px;
   width: 90px;
-  margin: 5 auto;
+  margin: 20 auto;
   margin-top: 55px;
     }
 
@@ -488,7 +488,7 @@ video {
   border-radius: 50%;
   height: 90px;
   width: 90px;
-  margin: 5 auto;
+  margin: 20 auto;
   margin-top: 55px;
     }
 
@@ -551,7 +551,7 @@ video {
     .video {
       width: 845px;
       height: 598px;
-      margin-right: 10%;
+      margin-right: 20%;
     }
 
     #video-player {
