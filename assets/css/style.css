@@ -545,7 +545,7 @@ video {
     .video {
       width: 845px;
       height: 598px;
-      /*margin-left: 1%;*/
+      margin-right: 2%;
     }
 
     #video-player {
