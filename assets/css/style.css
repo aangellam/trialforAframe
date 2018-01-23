@@ -435,7 +435,7 @@ video {
     }
 
     .animation-mobile {
-      display: none;
+      display: block;
     }
 
     .design-laptop {
@@ -526,6 +526,11 @@ video {
     font-size:25px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200; 
+    }
+
+    #design{
+      padding-left: 8px;
+      padding-right: 8px;
     }
 
     .design-header h1 {
