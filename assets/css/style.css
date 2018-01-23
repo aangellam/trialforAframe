@@ -507,14 +507,20 @@ video {
 
     .design-header h1 {
     font-size: 9rem;
+    margin-bottom: 10px;
+    margin-top: 5px;
     }
 
     .animation-header h1 {
     font-size: 9rem;
+    margin-bottom: 10px;
+    margin-top: 5px;
     }
 
     .other-header h1 {
     font-size: 9rem;
+    margin-bottom: 10px;
+    margin-top: 5px;
     }
 
     .video {
