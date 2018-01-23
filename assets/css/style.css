@@ -408,6 +408,7 @@ video {
 }
 
 @media screen and (max-width: 1023px) and (min-width: 310px) {
+
     .footer-mobile {
     position: fixed;
     left: 0;
@@ -419,12 +420,11 @@ video {
     padding-bottom: 5px;
     }
 
-    .name-mobile h1{
+    .navbar-nav li {
+    margin-top:3px;
     font-family: 'Prompt', sans-serif;
-    font-weight: 400;
-    font-size: 50rem;
-    letter-spacing: 0.2rem;
-    margin-bottom: 0px;
+    font-weight: 200;
+    font-size:50px;
     }
 
     .animation-laptop {
