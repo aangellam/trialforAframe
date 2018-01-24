@@ -429,6 +429,10 @@ video {
     padding-bottom: 5px;
     }
 
+    .product-slider #thumbcarousel .item {
+    margin-top: 50px;
+    }
+
     .animation-laptop {
       display: none;
     }
@@ -454,7 +458,7 @@ video {
     }
 
     .navbar-nav li {
-    margin-top:5px;
+    margin-top:12px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200;
     font-size:29px;
@@ -466,29 +470,33 @@ video {
 
     .pink {
   background-color: #ee88aa;
-  border-radius: 50%;
+  border-radius: 70%;
   height: 90px;
   width: 90px;
   margin: 0 auto;
-  margin-top: 55px;
+  margin-top: 50px;
+    margin-right: 100px;
+
     }
 
     .blue {
   background-color: #66aaff;
-  border-radius: 50%;
+  border-radius: 70%;
   height: 90px;
   width: 90px;
   margin: 0 auto;
-  margin-top: 55px;
+  margin-top: 50px;
     }
 
     .yellow {
   background-color: #ffff77;
-  border-radius: 50%;
+  border-radius: 70%;
   height: 90px;
   width: 90px;
   margin: 0 auto;
   margin-top: 55px;
+    margin-left: 100px;
+
     }
 
     .iconlink{
@@ -535,16 +543,41 @@ video {
     margin-top: 35px;
     }
 
-    .other-header h1 {
+    .others-header h1 {
+    font-size: 9rem;
+    margin-bottom: 1px;
+    margin-top: 35px;
+    }
+
+    .about-header h1 {
     font-size: 9rem;
     margin-bottom: 1px;
     margin-top: 35px;
     }
 
     .video {
+<<<<<<< HEAD
       width: 705px;
       height: 398px;
       /*margin-left: 1%;*/
+=======
+      width: 845px;
+      height: 598px;
+      padding-right: 19%;
+      margin-bottom: 0px;
+      margin-top: 0px;
+      padding-bottom:-10px;
+    }
+    .product-slider {
+      padding: 20px;
+      padding-top: 15px;
+       padding-bottom: 5px;
+      /*margin-right: 8%;*/
+    } 
+
+    .label{
+    padding-left: 10px;
+>>>>>>> dc080c8739d4635f2815b8f7ece3c1d8342c9d00
     }
 
     #video-player {
@@ -554,7 +587,7 @@ video {
     }
 
     #video-player-animation {
-      margin-left: 65px;
+      margin-left: 30px;
     }
 
     #brand {
@@ -563,7 +596,6 @@ video {
     font-weight: 700;
     line-height: 90%;
     }
-
 
 
 }
