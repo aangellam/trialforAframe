@@ -588,6 +588,9 @@ video {
     line-height: 90%;
     }
 
+    .label{
+    margin-left: 10px;
+    }
 
 
 }
