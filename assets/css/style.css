@@ -313,7 +313,7 @@ font-family: 'Prompt', sans-serif;
 }
 
 .product-slider #thumbcarousel .item .thumb {
-  width: 40px;
+  width: 20%;
   margin: 0 1%;
   display: inline-block;
   vertical-align: middle;
