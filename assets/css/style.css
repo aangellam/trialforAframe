@@ -571,6 +571,10 @@ video {
       /*margin-right: 8%;*/
     } 
 
+    .label{
+    padding-left: 20px;
+    }
+
     #video-player {
       width: 400px;
       height: 280px;
@@ -586,10 +590,6 @@ video {
     font-size: 5rem;
     font-weight: 700;
     line-height: 90%;
-    }
-
-    .label{
-    padding-left: 20px;
     }
 
 
