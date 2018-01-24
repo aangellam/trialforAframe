@@ -430,6 +430,10 @@ video {
     padding-bottom: 5px;
     }
 
+    .product-slider #thumbcarousel .item {
+    margin-top: 50px;
+    }
+
     .animation-laptop {
       display: none;
     }
@@ -526,14 +530,6 @@ video {
     font-size:25px;
     font-family: 'Prompt', sans-serif;
     font-weight: 200; 
-    }
-    
-    #other{
-      padding-left: 55px;
-    }
-
-    #animation{
-      padding-right: 55px;
     }
 
     .design-header h1 {
