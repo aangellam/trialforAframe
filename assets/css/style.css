@@ -527,6 +527,11 @@ video {
     font-family: 'Prompt', sans-serif;
     font-weight: 200; 
     }
+    
+    #other{
+      padding-left: 5px;
+    }
+
 
     .design-header h1 {
     font-size: 9rem;
@@ -558,6 +563,7 @@ video {
       padding-right: 19%;
       margin-bottom: 0px;
       margin-top: 0px;
+      padding-bottom:0px;
     }
     .product-slider {
       padding: 20px;
