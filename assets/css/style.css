@@ -529,9 +529,12 @@ video {
     }
     
     #other{
-      padding-left: 5px;
+      padding-left: 15px;
     }
 
+    #animation{
+      padding-left: 15px;
+    }
 
     .design-header h1 {
     font-size: 9rem;
