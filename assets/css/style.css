@@ -469,32 +469,31 @@ video {
     }
 
     .pink {
-  background-color: #ee88aa;
-  border-radius: 70%;
-  height: 90px;
-  width: 90px;
-  margin: 0 auto;
-  margin-top: 50px;
-    margin-right: 100px;
-
+      background-color: #ee88aa;
+      border-radius: 70%;
+      height: 90px;
+      width: 90px;
+      margin: 0 auto;
+      margin-top: 50px;
+      /*margin-right: 100px;*/
     }
 
     .blue {
-  background-color: #66aaff;
-  border-radius: 70%;
-  height: 90px;
-  width: 90px;
-  margin: 0 auto;
-  margin-top: 50px;
+      background-color: #66aaff;
+      border-radius: 70%;
+      height: 90px;
+      width: 90px;
+      margin: 0 auto;
+      margin-top: 50px;
     }
 
     .yellow {
-  background-color: #ffff77;
-  border-radius: 70%;
-  height: 90px;
-  width: 90px;
-  margin: 0 auto;
-  margin-top: 50px;
+      background-color: #ffff77;
+      border-radius: 70%;
+      height: 90px;
+      width: 90px;
+      margin: 0 auto;
+      margin-top: 50px;
     }
 
     .iconlink{
@@ -557,7 +556,7 @@ video {
       /*width: 845px;*/
       /*height: 598px;*/
       width: 640px;
-      height: 400px;
+      height: 440px;
       /*padding-right: 19%;*/
       margin-left: 5%;
       /*margin-bottom: 0px;*/
