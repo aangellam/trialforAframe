@@ -554,18 +554,15 @@ video {
     }
 
     .video {
-      /*
-<<<<<<< HEAD
-      width: 705px;
-      height: 398px;
-      /*margin-left: 1%;*/
-=======
-      width: 845px;
-      height: 598px;
-      padding-right: 19%;
-      margin-bottom: 0px;
-      margin-top: 0px;
-      padding-bottom:-10px;
+      /*width: 845px;*/
+      /*height: 598px;*/
+      width: 640px;
+      height: 400px;
+      /*padding-right: 19%;*/
+      margin-left: 5%;
+      /*margin-bottom: 0px;*/
+      /*margin-top: 0px;*/
+      /*padding-bottom:-10px;*/
     }
     .product-slider {
       padding: 20px;
