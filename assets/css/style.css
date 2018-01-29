@@ -119,7 +119,7 @@ font-family: 'Prompt', sans-serif;
 
 #brand {
   color: black;
-  font-size: 2.3rem;
+  font-size: 3.5rem;
   font-weight: 700;
   line-height: 90%;
 }
@@ -128,7 +128,7 @@ font-family: 'Prompt', sans-serif;
   margin-top:3px;
   font-family: 'Prompt', sans-serif;
   font-weight: 200;
-  font-size:16px;
+  font-size:20px;
 }
 
 .surround {
@@ -420,7 +420,7 @@ video {
   margin-top: 3%;
 }
 
-@media screen and (max-width: 1440px) and (min-width: 1024px) {
+@media screen and (max-width: 1439px) and (min-width: 1024px) {
     .video {
       width: 450px;
       height: 280px;
@@ -438,6 +438,27 @@ video {
       top: 30px;
     }
 }
+
+@media screen and (min-width: 1440px) {
+    .video {
+      width: 700px;
+      height: 350px;
+    }
+
+    #video-player {
+      width: 700px;
+      height: 350px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+}
+
+
 
 
 
