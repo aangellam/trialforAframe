@@ -119,9 +119,9 @@ font-family: 'Prompt', sans-serif;
 
 #brand {
   color: black;
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-weight: 700;
-  line-height: 90%;
+  line-height: 100%;
 }
 
 .navbar-nav li {
@@ -420,7 +420,7 @@ video {
   margin-top: 3%;
 }
 
-@media screen and (max-width: 1439px) and (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
     .video {
       width: 450px;
       height: 280px;
@@ -438,6 +438,26 @@ video {
       top: 30px;
     }
 }
+
+@media screen and (min-width: 1200px) {
+    .video {
+      width: 620px;
+      height: 300px;
+    }
+
+    #video-player {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+}
+
 
 @media screen and (min-width: 1440px) {
     .video {
@@ -460,19 +480,19 @@ video {
 
 @media screen and (min-width: 1700px) {
     .video {
-      width: 850px;
-      height: 430px;
+      width: 980px;
+      height: 440px;
     }
 
     #video-player {
-      width: 700px;
-      height: 350px;
+      width: 980px;
+      height: 440px;
       top: 30px;
     }
 
     #video-player-animation {
-      width: 425px;
-      height: 300px;
+      width: 980px;
+      height: 440px;
       top: 30px;
     }
 }
