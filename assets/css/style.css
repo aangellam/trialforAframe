@@ -458,6 +458,45 @@ video {
     }
 }
 
+@media screen and (min-width: 1300px) {
+    .video {
+      width: 650px;
+      height: 310px;
+    }
+
+    #video-player {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .video {
+      width: 680px;
+      height: 320px;
+    }
+
+    #video-player {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+}
+
+
 
 @media screen and (min-width: 1440px) {
     .video {
