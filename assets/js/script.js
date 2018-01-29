@@ -8,14 +8,14 @@ $(document).ready(function(){
     });
   };
 
-  $(".pink").hover(
-    function(){
-      $("#animation").fadeIn('slow');
-    },
-    function(){
-      $("#animation").fadeOut('slow');
-    }
-  );
+//  $(".pink").hover(
+//    function(){
+//      $("#animation").fadeIn('slow');
+//    },
+ //   function(){
+//      $("#animation").fadeOut('slow');
+//    }
+//  );
 
   $(".blue").hover(
     function(){
