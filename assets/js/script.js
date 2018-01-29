@@ -8,7 +8,7 @@ $(document).ready(function(){
     });
   };
 
-  $(".pink").hover(
+/*  $(".pink").hover(
     function(){
       $("#animation").fadeIn('slow');
     },
@@ -16,6 +16,7 @@ $(document).ready(function(){
       $("#animation").fadeOut('slow');
     }
   );
+  */
 
   $(".blue").hover(
     function(){
