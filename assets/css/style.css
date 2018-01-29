@@ -420,6 +420,222 @@ video {
   margin-top: 3%;
 }
 
+
+@media screen and (max-width: 1000px)and (min-width: 310px) {
+    .options {
+      display: none;
+    }
+
+    .options-mobile {
+      display: block;
+    }
+
+    .footer-mobile {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      color: #737373;
+      text-align: right;
+      padding-right: 10px;
+      padding-bottom: 5px;
+    }
+
+    .animation-gallery-mobile {
+      /*overflow-y: auto;*/
+      /*height: 700px;*/
+      /*margin: 0 auto;*/
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  iframe.video {
+    display: block;
+    width: 100%;
+    height: 620px;
+    margin-left: 1.5%;
+  }
+
+  .animation-column-mobile {
+    flex: 25%;
+    max-width: 50%;
+  }
+  
+  
+  .animation-column-mobile img {
+    vertical-align: middle;
+    width: 506px;
+    height: 290px;
+    /*height: 50%;*/
+  }
+
+    .product-slider #thumbcarousel .item {
+    margin-top: 50px;
+    }
+
+    .animation-laptop {
+      display: none;
+    }
+
+    .animation-mobile {
+      display: block;
+    }
+
+    .design-laptop {
+      display: none;
+    }
+
+    .design-mobile {
+      display: block;
+    }
+
+    .other-laptop {
+      display: none;
+    }
+
+    .other-mobile {
+      display: block;
+    }
+
+    .navbar-nav li {
+    margin-top:12px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200;
+    font-size:29px;
+    }
+
+    .navbar-default {
+    margin-left: 10%;
+    }
+
+    .pink {
+      background-color: #ee88aa;
+      border-radius: 70%;
+      height: 130px;
+      width: 130px;
+      margin: 0 auto;
+      margin-top: 50px;
+      /*margin-right: 100px;*/
+    }
+
+    .blue {
+      background-color: #66aaff;
+      border-radius: 70%;
+      height: 130px;
+      width: 130px;
+      margin: 0 auto;
+      margin-top: 50px;
+    }
+
+    .yellow {
+      background-color: #ffff77;
+      border-radius: 70%;
+      height: 130px;
+      width: 130px;
+      margin: 0 auto;
+      margin-top: 50px;
+    }
+
+    .dots {
+      width: 100%;
+    }
+
+    .iconlink{
+       height: 30%;
+      width: 30%;
+    /*
+    height: 203px;
+    width: 203px;
+    */
+    }
+
+    .icon{
+      height: 30%;
+      width: 30%;
+      /*
+    height: 195px;
+    width: 195px;
+    */
+    }
+
+    .name h1 {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+    font-size: 12rem;
+    letter-spacing: 0.2rem;
+    margin-bottom: 0px;
+    }
+
+    .descriptor {
+    font-size:35px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200; 
+    }
+
+    .design-header h1 {
+    font-size: 9rem;
+    margin-bottom: 1px;
+    margin-top: 35px;
+    }
+
+    .animation-header h1 {
+    font-size: 9rem;
+    margin-bottom: 1px;
+    margin-top: 35px;
+    }
+
+    .others-header h1 {
+    font-size: 9rem;
+    margin-bottom: 1px;
+    margin-top: 35px;
+    }
+
+    .about-header h1 {
+    font-size: 9rem;
+    margin-bottom: 1px;
+    margin-top: 35px;
+    }
+
+    .video {
+      /*width: 845px;*/
+      /*height: 598px;*/
+      width: 640px;
+      height: 440px;
+      /*padding-right: 19%;*/
+      margin-left: 5%;
+      /*margin-bottom: 0px;*/
+      /*margin-top: 0px;*/
+      /*padding-bottom:-10px;*/
+    }
+    .product-slider {
+      padding: 20px;
+      padding-top: 15px;
+       padding-bottom: 5px;
+      /*margin-right: 8%;*/
+    } 
+
+    .item h3, .item p {
+      margin-left: 2%;
+    }
+
+    #video-player {
+      width: 400px;
+      height: 280px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      margin-left: 30px;
+    }
+
+    #brand {
+    color: black;
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 90%;
+    }
+}
+
 @media screen and (min-width: 1024px) {
     .video {
       width: 450px;
@@ -593,221 +809,6 @@ video {
     }
 }
 
-
-@media screen and (max-width: 1000px)and (min-width: 310px) {
-    .options {
-      display: none;
-    }
-
-    .options-mobile {
-      display: block;
-    }
-
-    .footer-mobile {
-      position: fixed;
-      left: 0;
-      bottom: 0;
-      width: 100%;
-      color: #737373;
-      text-align: right;
-      padding-right: 10px;
-      padding-bottom: 5px;
-    }
-
-    .animation-gallery-mobile {
-      /*overflow-y: auto;*/
-      /*height: 700px;*/
-      /*margin: 0 auto;*/
-      display: flex;
-      flex-wrap: wrap;
-  }
-
-  iframe.video {
-    display: block;
-    width: 100%;
-    height: 620px;
-    margin-left: 1.5%;
-  }
-
-  .animation-column-mobile {
-    flex: 25%;
-    max-width: 50%;
-  }
-  
-  
-  .animation-column-mobile img {
-    vertical-align: middle;
-    width: 515px;
-    height: 290px;
-    /*height: 50%;*/
-  }
-
-    .product-slider #thumbcarousel .item {
-    margin-top: 50px;
-    }
-
-    .animation-laptop {
-      display: none;
-    }
-
-    .animation-mobile {
-      display: block;
-    }
-
-    .design-laptop {
-      display: none;
-    }
-
-    .design-mobile {
-      display: block;
-    }
-
-    .other-laptop {
-      display: none;
-    }
-
-    .other-mobile {
-      display: block;
-    }
-
-    .navbar-nav li {
-    margin-top:12px;
-    font-family: 'Prompt', sans-serif;
-    font-weight: 200;
-    font-size:29px;
-    }
-
-    .navbar-default {
-    margin-left: 10%;
-    }
-
-    .pink {
-      background-color: #ee88aa;
-      border-radius: 70%;
-      height: 130px;
-      width: 130px;
-      margin: 0 auto;
-      margin-top: 50px;
-      /*margin-right: 100px;*/
-    }
-
-    .blue {
-      background-color: #66aaff;
-      border-radius: 70%;
-      height: 130px;
-      width: 130px;
-      margin: 0 auto;
-      margin-top: 50px;
-    }
-
-    .yellow {
-      background-color: #ffff77;
-      border-radius: 70%;
-      height: 130px;
-      width: 130px;
-      margin: 0 auto;
-      margin-top: 50px;
-    }
-
-    .dots {
-      width: 100%;
-    }
-
-    .iconlink{
-       height: 30%;
-      width: 30%;
-    /*
-    height: 203px;
-    width: 203px;
-    */
-    }
-
-    .icon{
-      height: 30%;
-      width: 30%;
-      /*
-    height: 195px;
-    width: 195px;
-    */
-    }
-
-    .name h1 {
-    font-family: 'Prompt', sans-serif;
-    font-weight: 400;
-    font-size: 12rem;
-    letter-spacing: 0.2rem;
-    margin-bottom: 0px;
-    }
-
-    .descriptor {
-    font-size:35px;
-    font-family: 'Prompt', sans-serif;
-    font-weight: 200; 
-    }
-
-    .design-header h1 {
-    font-size: 9rem;
-    margin-bottom: 1px;
-    margin-top: 35px;
-    }
-
-    .animation-header h1 {
-    font-size: 9rem;
-    margin-bottom: 1px;
-    margin-top: 35px;
-    }
-
-    .others-header h1 {
-    font-size: 9rem;
-    margin-bottom: 1px;
-    margin-top: 35px;
-    }
-
-    .about-header h1 {
-    font-size: 9rem;
-    margin-bottom: 1px;
-    margin-top: 35px;
-    }
-
-    .video {
-      /*width: 845px;*/
-      /*height: 598px;*/
-      width: 640px;
-      height: 440px;
-      /*padding-right: 19%;*/
-      margin-left: 5%;
-      /*margin-bottom: 0px;*/
-      /*margin-top: 0px;*/
-      /*padding-bottom:-10px;*/
-    }
-    .product-slider {
-      padding: 20px;
-      padding-top: 15px;
-       padding-bottom: 5px;
-      /*margin-right: 8%;*/
-    } 
-
-    .item h3, .item p {
-      margin-left: 2%;
-    }
-
-    #video-player {
-      width: 400px;
-      height: 280px;
-      top: 30px;
-    }
-
-    #video-player-animation {
-      margin-left: 30px;
-    }
-
-    #brand {
-    color: black;
-    font-size: 5rem;
-    font-weight: 700;
-    line-height: 90%;
-    }
-}
 
 /*@media only screen and (min-width: 426px) {
   .options {
