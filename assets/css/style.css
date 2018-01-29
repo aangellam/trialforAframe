@@ -496,6 +496,44 @@ video {
     }
 }
 
+@media screen and (min-width: 2770px) {
+    .video {
+      width: 1500px;
+      height: 590px;
+    }
+
+    #video-player {
+      width: 700px;
+      height: 350px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+}
+
+@media screen and (min-width: 3100px) {
+    .video {
+      width: 1780px;
+      height: 620px;
+    }
+
+    #video-player {
+      width: 700px;
+      height: 350px;
+      top: 30px;
+    }
+
+    #video-player-animation {
+      width: 425px;
+      height: 300px;
+      top: 30px;
+    }
+}
+
 
 @media screen and (max-width: 1000px)and (min-width: 310px) {
     .options {
