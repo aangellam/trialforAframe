@@ -8,7 +8,7 @@ $(document).ready(function(){
     });
   };
 
-  $(".pink").hover(
+  $(".link").hover(
     function(){
       $("#animation").fadeIn('slow');
     },
