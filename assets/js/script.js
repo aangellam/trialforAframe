@@ -7,13 +7,13 @@ $(document).ready(function(){
       'font-weight': '700',
     });
   };
-
+/*
   $(".pink").hover(
     function(){
-      $("#linkimg").fadeIn('slow');
+      $("#animation").fadeIn('slow');
     },
     function(){
-      $("#linkimg").fadeOut('slow');
+      $("#animation").fadeOut('slow');
     }
   );
   
@@ -35,5 +35,6 @@ $(document).ready(function(){
       $("#others").fadeOut('slow');
     }
   );
+  */
 });
 
