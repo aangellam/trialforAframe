@@ -21,12 +21,12 @@ body {
 }
 
 .linkimg{
-  /* border-radius: 50%;*/
+   border-radius: 25%;
   height: 65px;
   width: 65px;
   margin: 0 auto;
   margin-top: 55px;
-    /*position: absolute;*/
+    position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
