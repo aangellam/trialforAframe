@@ -8,12 +8,12 @@ $(document).ready(function(){
     });
   };
 
-  $(".link").hover(
+  $(".pink").hover(
     function(){
-      $("#animation").fadeIn('slow');
+      $(".link").fadeIn('slow');
     },
     function(){
-      $("#animation").fadeOut('slow');
+      $(".link").fadeOut('slow');
     }
   );
   
