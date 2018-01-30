@@ -10,10 +10,10 @@ $(document).ready(function(){
 
   $(".pink").hover(
     function(){
-      $(".link").fadeIn('slow');
+      $("#linkimg").fadeIn('slow');
     },
     function(){
-      $(".link").fadeOut('slow');
+      $("#linkimg").fadeOut('slow');
     }
   );
   
