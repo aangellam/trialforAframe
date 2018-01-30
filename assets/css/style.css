@@ -78,7 +78,7 @@ font-family: 'Prompt', sans-serif;
 }
 
 .descriptor {
-  display: none;
+ /* display: none;*/
   text-align: center;
   margin-top: 3%;
   font-family: 'prompt', sans-serif;
