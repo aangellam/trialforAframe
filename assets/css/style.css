@@ -10,7 +10,7 @@ body {
 }
 
 .overlay{
-  /*position: absolute;*/
+  position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
@@ -26,7 +26,7 @@ body {
   width: 30px;
  /* margin: 0 auto;*/
  /* margin-top: 55px;*/
-  /*  position: absolute;*/
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
