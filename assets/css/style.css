@@ -10,7 +10,7 @@ body {
 }
 
 .overlay{
-  position: absolute;
+  /*position: absolute;*/
   bottom: 0;
   left: 0;
   right: 0;
@@ -22,20 +22,19 @@ body {
 
 .linkimg{
    border-radius: 25%;
-  height: 50px;
-  width: 50px;
+  height: 30px;
+  width: 30px;
  /* margin: 0 auto;*/
  /* margin-top: 55px;*/
-    position: absolute;
+  /*  position: absolute;*/
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  text-align: center;
 }
 
 .container:hover .overlay {
-  height: 50%;
+  height: 100%;
 }
 
 
