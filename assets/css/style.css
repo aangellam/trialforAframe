@@ -21,7 +21,7 @@ body {
 }
 
 .linkimg{
-   border-radius: 50%;
+  /* border-radius: 50%;*/
   height: 65px;
   width: 65px;
   margin: 0 auto;
